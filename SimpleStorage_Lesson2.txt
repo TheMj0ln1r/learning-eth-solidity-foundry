@@ -1,0 +1,4 @@
+
+SimpleStorage_Lesson2 contract: 0x302d74BE47af98c95a43D9DF15Aba06293Fbd680 on sepolia network
+	Deployed by Account 1 : 0x699BceEbD59a5b52bB586C737cD7ba636f3Fe602
+
